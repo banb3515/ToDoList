@@ -3,8 +3,6 @@
 > ## **목차**
 >
 > 1. [To Do List란?](#To-Do-List란)
->    - [시간표, 급식 메뉴, 학사 일정](#시간표-급식-메뉴-학사-일정)
->    - [공지사항, 가정통신문](#공지사항-가정통신문)
 > 2. [스크린샷](#스크린샷)
 > 3. [개발 정보](#개발-정보)
 
@@ -21,7 +19,7 @@
 > ### **스크린샷**
 >
 > - 스크린샷  
->   ![To Do List 스크린샷](https://github.com/banb3515/ToDoList/blob/master/Screenshots/Screenshot1.png?raw=true)
+>   ![To Do List 스크린샷](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
 
 ---
 

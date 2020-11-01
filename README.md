@@ -26,13 +26,13 @@
 
 > ### **개발 정보**
 >
-> - 개발 언어 - [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
+> - 언어 - [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
 > - 프레임워크 - [WPF(Windows Presentation Foundation)](https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019)
 
 ---
 
 > ### **다운로드**
 >
-> - [설치 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FSetup)
+> - [설치 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FDownload)
 > - 삭제 방법
 >   - 제어판 -> 프로그램 및 기능 -> To Do List 제거

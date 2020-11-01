@@ -33,5 +33,6 @@
 > ### **다운로드**
 >
 > - [설치 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FDownloads)
+> 위 링크에서 다운받을 수 없을 경우 [여기에서]() 다운받아주세요.
 > - 삭제 방법
 >   - 제어판 -> 프로그램 및 기능 -> To Do List 제거

@@ -26,7 +26,7 @@
 
 > ### **개발 정보**
 >
-> - 개발 언어 - [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
+> - 언어 - [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
 > - 프레임워크 - [WPF(Windows Presentation Foundation)](https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019)
 
 ---

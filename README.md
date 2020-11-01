@@ -19,8 +19,7 @@
 
 > ### **스크린샷**
 >
-> - 스크린샷  
->   ![To Do List 스크린샷](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
+> ![To Do List 스크린샷](https://raw.githubusercontent.com/banb3515/ToDoList/main/Screenshots/Screenshot.png)
 
 ---
 
@@ -33,6 +32,6 @@
 
 > ### **다운로드**
 >
-> - [설치 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FDownload)
+> - [설치 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FDownloads)
 > - 삭제 방법
 >   - 제어판 -> 프로그램 및 기능 -> To Do List 제거

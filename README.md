@@ -1,6 +1,6 @@
 # **To Do List**
 
-> ### **[Portfolio - ToDoList](http://banb.work/Portfolio/ToDoList)**
+> ### **[Project - ToDoList](http://banb.work/Project/ToDoList)**
 
 ---
 
